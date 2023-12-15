@@ -1,7 +1,7 @@
 {
   "name": "admin-panel",
   "homepage": "https://emrekoyuncuu.github.io/AdminPanelDemo/",
-  "private": true,
+  "private": "true",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

@@ -23,9 +23,9 @@ const Sidebar = () => {
             <div className="top">
                 <Link to="/" style={{ textDecoration: "none" }}>
                     {!darkMode ? (
-                        <img className="logoIcon" src={"../../../public/emre_logo_light.svg"} alt="" />
+                        <img className="logoIcon" src={"/emre_logo_light.svg"} alt="" />
                     ) : (
-                        <img className="logoIcon" src={"../../../public/emre_logo_dark.svg"} alt="" />
+                        <img className="logoIcon" src={"/emre_logo_dark.svg"} alt="" />
                     )}
                 </Link>
             </div>

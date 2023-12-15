@@ -12,10 +12,16 @@
         align-items: center;
         justify-content: center;
         
-        .logoIcon{
-            width: 85px;
-            height: 85px;
-        }
+        .logoLight {
+            font-size: 20px;
+            font-weight: bold;
+            color: #EF6800;
+          }
+        .logoDark {
+            font-size: 20px;
+            font-weight: bold;
+            color: #ffdcc2;
+          }
     }
 
     .center{

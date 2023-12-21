@@ -7,6 +7,6 @@ Personally, while utilizing SCSS aligned with my accustomed workflow, I found it
 The linkage between users and products is established through Firebase. Due to its demo nature, an additional product section was not implemented. Should you add a new user, registering on Firebase and subsequently clearing your local storage will allow you to log in as that user.
 
 # Link
-#### [Admin Panel Demo](http://https://emrekoyuncuu.github.io/AdminPanelDemo/ "Admin Panel Demo")
+#### [Admin Panel Demo](https://emrekoyuncuu.github.io/AdminPanelDemo/)
 
 If you just want the link: https://emrekoyuncuu.github.io/AdminPanelDemo/
